@@ -3,17 +3,8 @@ title: Ameya Dattaram Parab
 description: Data Science Graduate Student at Indiana University Bloomington
 theme: jekyll-theme-slate
 
-show_today: true
-
-# Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
-# Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
-periods:
-  - events:
-    - October 1990: "👶 Neil is born in Michigan."
-    - December 1990: "✈️ Neil moves to California."
-    - August 1994: "👶 Neil's sister, Nandini, is born."
-    - February 1995: "💩 Neil splatters poop on his walls while swinging a garbage bag with a dirty diaper. This is his first physics lesson."
-    - December 1997: "🏠 Neil moves to a new home on Christmas. It's 100% less shitty than the last one."
-    - July 1998: "🎬 Neil directs his first action movie using a VHS camcorder and PowerMac 8500."
-    - March 1999: "🕶 The Matrix is released. Neil has to clarify his name isn't Neo for the rest of the decade."
-    - June 1999: "🔥 Neil's internet connection is upgraded from dial-up to 6mbps DSL. He starts tinkering with web development. And Napster."
+events:
+  - date: "September 2013 - Today"
+    description: "Saving the neighborhood!"
+  - date: "September 2007 - August 2013"
+    description: "Started coding"
