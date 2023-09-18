@@ -14,7 +14,9 @@ Accenture
 - 
 
 ### Projects
-
+---
+layout: base
+---
 <ul class="timeline timeline-split">
     {% for period in site.periods %}
       {% if period.name %}
