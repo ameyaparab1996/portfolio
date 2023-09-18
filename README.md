@@ -2,26 +2,26 @@
 #### Indiana University, Bloomington, IN, United States					                                                                                                                      August 2022 – May 2024
 Master of Science in Data Science									   	                                                                                                                              CGPA: 3.95/4.0
 Coursework:
-    - Applied Machine Learning
-    - Applied Database Technologies
-    - Statistics
-    - Data Visualization
-    - Big Data Technologies
-    - Natural Language Processing
-    - Music Data Mining
-    - Social Media Informatics
+- Applied Machine Learning
+- Applied Database Technologies
+- Statistics
+- Data Visualization
+- Big Data Technologies
+- Natural Language Processing
+- Music Data Mining
+- Social Media Informatics
 
 #### University of Mumbai, Mumbai, India					           	                 	                                                                                                    July 2014 – May 2018
 Bachelor of Engineering in Information Technology					 	                  	                                                                                                          CGPA: 8.58/10 
 Coursework:
-    - Object Oriented Programming
-    - Applied Database Technologies
-    - Statistics
-    - Data Visualization
-    - Big Data Technologies
-    - Natural Language Processing
-    - Music Data Mining
-    - Social Media Informatics
+- Object Oriented Programming
+- Applied Database Technologies
+- Statistics
+- Data Visualization
+- Big Data Technologies
+- Natural Language Processing
+- Music Data Mining
+- Social Media Informatics
 
 ### Work Experience
 
