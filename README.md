@@ -76,7 +76,7 @@
 <br>
 
 <div style="clear: both"> 
-  <h4 style="display: inline; float: left">Luddy School of Informatics, Computing & Engineering, Bloomington, IN</h4>
+  <h4 style="display: inline; float: left">Indiana University Luddy SoICE, Bloomington, IN</h4>
   <h6 style="display: inline; float: right">June 2023 – Present</h6>
 </div>
 <br>
