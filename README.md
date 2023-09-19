@@ -56,6 +56,8 @@
 <hr>
   
 ## Technical Skills
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyaparab1996)
+![github stats](https://github-readme-stats.vercel.app/api?username=ameyaparab1996)
 
 <br>
 <hr>
