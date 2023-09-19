@@ -124,7 +124,7 @@
 <br>
 
 #### Employee Attrition Rate Analysis and Prediction
-<div align="center"><iframe style="display: inline; float: left" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div><iframe style="display: inline; float: left" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)</div
 - Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements.
 - Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**.
