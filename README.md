@@ -141,7 +141,7 @@
 <hr>
 
 <details>
-  <summary><h2>Hobbies</h2></summary>
+  <summary><h2 style="display: inline">Hobbies</h2></summary>
   <h3>Art</h3>
   <div style="clear: both"> 
     <p style="display: inline-block; float: left">Artmeya</p>
