@@ -56,26 +56,12 @@
 <hr>
   
 ## Technical Skills
-![image](assests/img/languages/python.svg)
-![image](assests/img/languages/r.svg)
-![image](assests/img/languages/html5.svg)
-![image](assests/img/languages/css3.svg)
+| ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) |
 
-![image](assests/img/languages/numpy.svg)
-![image](assests/img/languages/pandas.svg)
-![image](assests/img/languages/scipy.svg)
-![image](assests/img/languages/scikitlearn.svg)
-![image](assests/img/languages/keras.svg)
-![image](assests/img/languages/apachespark.svg)
-![image](assests/img/languages/apachemaven.svg)
-![image](assests/img/languages/apachekafka.svg)
+| ![image](assests/img/languages/numpy.svg) | ![image](assests/img/languages/pandas.svg) | ![image](assests/img/languages/scipy.svg) | ![image](assests/img/languages/scikitlearn.svg) | ![image](assests/img/languages/keras.svg) | ![image](assests/img/languages/apachespark.svg) | ![image](assests/img/languages/apachemaven.svg) | ![image](assests/img/languages/apachekafka.svg) |
 
-![image](assests/img/technologies/mulesoft.svg)
-![image](assests/img/technologies/salesforce.svg)
-![image](assests/img/technologies/amazonaws.svg)
-![image](assests/img/technologies/jupyter.svg)
-![image](assests/img/technologies/tableau.svg)
-![image](assests/img/technologies/looker.svg)
+| ![image](assests/img/technologies/mulesoft.svg) | ![image](assests/img/technologies/salesforce.svg) | ![image](assests/img/technologies/amazonaws.svg) | ![image](assests/img/technologies/jupyter.svg) | ![image](assests/img/technologies/tableau.svg) | ![image](assests/img/technologies/looker.svg) |
+
 ![image](assests/img/technologies/microsoftoffice.svg)
 
 ![image](assests/img/database/mysql.svg)
