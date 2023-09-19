@@ -24,12 +24,12 @@
 
 <br>
 <div> 
-  <h4 style="display: inline; float: left">University of Mumbai, Mumbai, India</h4>
-  <h6 style="display: inline; float: right">July 2014 – May 2018</h6>
+  <h4 style="display: inline-block; float: left">University of Mumbai, Mumbai, India</h4>
+  <h6 style="display: inline-block; float: right">July 2014 – May 2018</h6>
 </div>
 <div>
-  <p style="display: inline; float: left">Bachelor of Engineering in Information Technology</p>
-  <h6 style="display: inline; float: right"> CGPA: 8.58/10 </h6>
+  <p style="display: inline-block; float: left">Bachelor of Engineering in Information Technology</p>
+  <h6 style="display: inline-block; float: right"> CGPA: 8.58/10 </h6>
 </div>
 <br>
 <details>
@@ -54,7 +54,7 @@
   <h6 style="display: inline; float: right">July 2023 – Present</h6>
 </div>
 <br>
-Research Scientist
+<p style="display: inline-block; float: left">Research Scientist</p>
 - xyz
 - dadfdfs
 
@@ -63,7 +63,7 @@ Research Scientist
   <h6 style="display: inline; float: right">December 2021 – August 2022</h6>
 </div>
 <br>
-Senior Software Engineer
+<p style="display: inline-block; float: left">Senior Software Engineer</p>
 - sdfvs
 - sfsdf
 
@@ -72,7 +72,7 @@ Senior Software Engineer
   <h6 style="display: inline; float: right">October 2018 – December 2021</h6>
 </div>
 <br>
-Application Development Associate
+<p style="display: inline-block; float: left">Application Development Associate</p>
 - xyz
 - dsf
     
