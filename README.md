@@ -72,6 +72,8 @@
 - Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
 - Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
 
+<br>
+
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Luddy School of Informatics, Computing & Engineering, Bloomington, IN</h4>
   <h6 style="display: inline; float: right">June 2023 – Present</h6>
@@ -137,26 +139,28 @@
 
 <br>
 <hr>
+
+<details>
+  <summary><h2>Hobbies</h2></summary>
+  <h3>Art</h3>
+  <div style="clear: both"> 
+    <p style="display: inline-block; float: left">Artmeya</p>
+    <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
+  </div>
+  <div style="clear: both">
+    <ul>
+      <li>Started a **Resin Art** small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
+      <li>Produced over **80 orders** of various products for more than **50 customers** ensuring product quality and their satisfaction.</li>
+      <li>Managed inventory of over **150 art supplies** and scheduling deliveries of the orders.</li>
+      <li>Created content on Instagram by making about **100 posts** and **45 reels** through clicking photographs, shooting videos and editing them.</li>
+    </ul>
+  </div>
+
+  <br>
   
-## Hobbies
-### Art
-<div style="clear: both"> 
-  <p style="display: inline-block; float: left">Artmeya</p>
-  <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
-</div>
-<div style="clear: both">
-  <ul>
-    <li>Started a **Resin Art** small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
-    <li>Produced over **80 orders** of various products for more than **50 customers** ensuring product quality and their satisfaction.</li>
-    <li>Managed inventory of over **150 art supplies** and scheduling deliveries of the orders.</li>
-    <li>Created content on Instagram by making about **100 posts** and **45 reels** through clicking photographs, shooting videos and editing them.</li>
-  </ul>
-</div>
+  <h3>Photography</h3>
 
-<br>
-  
-## Photography
+  <br>
 
-<br>
-
-## Fitness
+  <h3>Fitness</h3>
+</details>
