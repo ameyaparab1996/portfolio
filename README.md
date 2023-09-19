@@ -1,9 +1,9 @@
 ## Education
-<div> 
+<div style="clear: both"> 
   <h4 style="display: inline-block; float: left">Indiana University, Bloomington, IN, United States</h4>
   <h6 style="display: inline-block; float: right">August 2022 – May 2024</h6>
 </div>
-<div> 
+<div style="clear: both"> 
   <p style="display: inline-block; float: left">Master of Science in Data Science</p>
   <h6 style="display: inline-block; float: right">CGPA: 3.95/4.0</h6>
 </div>
@@ -23,11 +23,11 @@
   </details>
 
 <br>
-<div> 
+<div style="clear: both"> 
   <h4 style="display: inline-block; float: left">University of Mumbai, Mumbai, India</h4>
   <h6 style="display: inline-block; float: right">July 2014 – May 2018</h6>
 </div>
-<div>
+<div style="clear: both">
   <p style="display: inline-block; float: left">Bachelor of Engineering in Information Technology</p>
   <h6 style="display: inline-block; float: right"> CGPA: 8.58/10 </h6>
 </div>
