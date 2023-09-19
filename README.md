@@ -1,6 +1,12 @@
 ## Education
-<div><h4 style="display: inline; float: left"> Indiana University, Bloomington, IN, United States</h4> <h6 style="display: inline; float: right">August 2022 – May 2024</h6> </div>
-<div>Master of Science in Data Science <h6 align="right">CGPA: 3.95/4.0</h6> </div>
+<div> 
+  <h4 style="display: inline; float: left">Indiana University, Bloomington, IN, United States</h4>
+  <h6 style="display: inline; float: right">August 2022 – May 2024</h6>
+</div>
+<div> 
+  <p style="display: inline; float: left">Master of Science in Data Science</p>
+  <h6 style="display: inline; float: right">CGPA: 3.95/4.0</h6>
+</div>
 <details>
   <summary>Coursework</summary>
   <ul>
@@ -15,8 +21,14 @@
   </ul>
 </details>
 
-#### University of Mumbai, Mumbai, India					           	                 	                                                                                                    July 2014 – May 2018
-Bachelor of Engineering in Information Technology					 	                  	                                                                                                          CGPA: 8.58/10 
+<div> 
+  <h4 style="display: inline; float: left">University of Mumbai, Mumbai, India</h4>
+  <h6 style="display: inline; float: right">July 2014 – May 2018</h6>
+</div>
+<div>
+  <p style="display: inline; float: left">Bachelor of Engineering in Information Technology</p>
+  <h6 style="display: inline; float: right"> CGPA: 8.58/10 </h6>
+</div>
 <details>
 <summary>Coursework</summary>
 - Object Oriented Programming
@@ -34,17 +46,28 @@ Bachelor of Engineering in Information Technology					 	                  	     
 </details>
 
 ## Work Experience
-### Indiana University School of Medicine, Indianapolis, IN
+<div> 
+  <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
+  <h6 style="display: inline; float: right">July 2023 – Present</h6>
+</div>
 Research Scientist
 - xyz
 - dadfdfs
 
-### Apisero, Mumbai, India
+<div> 
+  <h4 style="display: inline; float: left">Apisero, Mumbai, India</h4>
+  <h6 style="display: inline; float: right">December 2021 – August 2022</h6>
+</div>
+Senior Software Engineer
 - sdfvs
 - sfsdf
 
-### Accenture, Mumbai, India
+<div> 
+  <h4 style="display: inline; float: left"Accenture, Mumbai, India</h4>
+  <h6 style="display: inline; float: right">October 2018 – December 2021</h6>
+</div>
+Application Development Associate
 - xyz
 - dsf
 
-### Projects
+## Projects
