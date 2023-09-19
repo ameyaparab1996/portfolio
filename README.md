@@ -54,9 +54,6 @@
 
 <br>
 <hr>
-
-<br>
-<hr>
   
 ## Technical Skills
 
@@ -71,6 +68,16 @@
 </div>
 <br>
 <p style="clear: both">Research Scientist</p>
+- Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
+- Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
+- Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
+
+<div style="clear: both"> 
+  <h4 style="display: inline; float: left">Luddy School of Informatics, Computing & Engineering, Bloomington, IN</h4>
+  <h6 style="display: inline; float: right">June 2023 – Present</h6>
+</div>
+<br>
+<p style="clear: both">Teaching Assistant</p>
 - Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
 - Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
 - Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
@@ -133,11 +140,18 @@
   
 ## Hobbies
 ### Art
-#### Artmeya
-- Started a **Resin Art** small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.
-- Produced over **80 orders** of various products for more than **50 customers** ensuring product quality and their satisfaction.
-- Managed inventory of over **150 art supplies** and scheduling deliveries of the orders.
-- Created content on Instagram by making about **100 posts** and **45 reels** through clicking photographs, shooting videos and editing them.
+<div style="clear: both"> 
+  <p style="display: inline-block; float: left">Artmeya</p>
+  <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
+</div>
+<div style="clear: both">
+  <ul>
+    <li>Started a **Resin Art** small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
+    <li>Produced over **80 orders** of various products for more than **50 customers** ensuring product quality and their satisfaction.</li>
+    <li>Managed inventory of over **150 art supplies** and scheduling deliveries of the orders.</li>
+    <li>Created content on Instagram by making about **100 posts** and **45 reels** through clicking photographs, shooting videos and editing them.</li>
+  </ul>
+</div>
 
 <br>
   
