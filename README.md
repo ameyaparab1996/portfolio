@@ -7,7 +7,7 @@
   <p style="display: inline-block; float: left">Master of Science in Data Science</p>
   <h6 style="display: inline-block; float: right">CGPA: 3.95/4.0</h6>
 </div>
-<br>
+<div style="clear: both">
 <details>
     <summary>Coursework</summary>
     <ul>
@@ -33,19 +33,21 @@
 </div>
 <br>
 <details>
-<summary>Coursework</summary>
-- Object Oriented Programming
-- Data Structures and Algorthms
-- Database Concepts
-- Operating Systems
-- Computer Networks
-- Applied Mathematics
-- Web Technologies
-- Data Mining and Business Intelligence
-- Artificial Intelligence
-- Cloud Computing
-- Software Engineering
-- Virtual Reality
+  <summary>Coursework</summary>
+  <ul>
+    <li>Object Oriented Programming</li>
+    <li>Data Structures and Algorthms</li>
+    <li>Database Concepts</li>
+    <li>Operating Systems</li>
+    <li>Computer Networks</li>
+    <li>Applied Mathematics</li>
+    <li>Web Technologies</li>
+    <li>Data Mining and Business Intelligence</li>
+    <li>Artificial Intelligence</li>
+    <li>Cloud Computing</li>
+    <li>Software Engineering</li>
+    <li>Virtual Reality</li>
+  </ul>
 </details>
 <br>
 <hr>
@@ -56,10 +58,10 @@
   <h6 style="display: inline; float: right">July 2023 – Present</h6>
 </div>
 <br>
-<p style="float: left">Research Scientist</p>
-- Engineered a robust database system in `Big Query` by performing preprocessing and transformation on extensive raw data of over `46,000 patients`, facilitating seamless querying to uncover patterns and trends enabling prediction of over `5 types of patient outcomes`.
-- Designed a comprehensive `Data Model` for various data types and formats, including `Parque`, facilitating efficient collaboration among Developers, Researchers and Data Scientists to `increase productivity by 20%`.
-- Incorporated `6 visual representations` to effectively present the extracted meaningful features and facilitate the `analysis of 65,000 ICU stays`.
+<p style="clear: both">Research Scientist</p>
+- Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
+- Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
+- Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
 
 
 <div style="clear: both"> 
