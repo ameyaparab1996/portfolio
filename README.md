@@ -129,33 +129,14 @@
 <tr>
 <th><iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
 <th>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)  
-
+  <a href="[https://en.wikipedia.org/wiki/Boracay](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis"/>
+  </a>
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)-->
 </th>
 </tr>
 </table>
-
-<table>
-<tr>
-<th>Heading 1</th>
-<th>Heading 2</th>
-</tr>
-<tr>
-
-<td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td><td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td></tr> </table>
 
 - Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements.
 - Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**.
