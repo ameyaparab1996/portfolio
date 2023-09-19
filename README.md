@@ -1,6 +1,6 @@
 ## Education
-<h4> Indiana University, Bloomington, IN, United States</h4> <h6 align="right">August 2022 – May 2024</h6> 
-<p>Master of Science in Data Science <h6 align="right">CGPA: 3.95/4.0</h6> </p>
+<h4 style="display: inline-block"> Indiana University, Bloomington, IN, United States</h4> <h6 display="inline" align="right">August 2022 – May 2024</h6> 
+<div>Master of Science in Data Science <h6 align="right">CGPA: 3.95/4.0</h6> </div>
 <details>
   <summary>Coursework</summary>
   <ul>
