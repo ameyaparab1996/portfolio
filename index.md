@@ -142,7 +142,7 @@ layout: default
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)-->
   </td>
   <td>
-    <iframe align="center" width="240" height="180" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe align="center" width="320" height="180" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </td>
 </tr>
 </table>
@@ -166,7 +166,7 @@ layout: default
     <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)-->
   </td>
   <td>
-    <iframe align="center" width="240" height="180" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe align="center" width="320" height="180" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </td>
 </tr>
 </table>
