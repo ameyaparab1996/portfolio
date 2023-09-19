@@ -135,6 +135,25 @@
 </th>
 </tr>
 </table>
+
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
 - Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements.
 - Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**.
 - Implemented a classification model using **Machine Learning** to accurately predict whether an employee would stay or leave the organization. By leveraging relevant features and conducting thorough analysis, the model provided valuable insights for proactive employee retention strategies.
