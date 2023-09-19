@@ -55,6 +55,14 @@
 <br>
 <hr>
 
+<br>
+<hr>
+  
+## Technical Skills
+
+<br>
+<hr>
+
 ## Work Experience
 
 <div style="clear: both"> 
@@ -107,3 +115,34 @@
 - Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements. (Documentation)
 - Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**. (Demonstration Video)
 - Implemented a classification model using **Machine Learning** to accurately predict whether an employee would stay or leave the organization. By leveraging relevant features and conducting thorough analysis, the model provided valuable insights for proactive employee retention strategies.
+
+<br>
+<hr>
+  
+## Leadership & Involvement
+
+- Authored a **Medium Article** that garnered **28 views**, offering critique on a unique visualization, its insights and skillful use of visual encodings.
+-	Recognized as a **MuleSoft Mentor** for zealously engaging & addressing over **40 technical queries** in the **MuleSoft Forum**.
+-	Actively interacted with **32 employers** and managed their hiring events as a **Placement Coordinator** leading to **98% of students getting offers**.
+-	Served as an **Executive Head** in Praxis (College Technical Festival) guiding the volunteers in decorating the campus as well as constructing **7 large scale art installations & models**. 
+- Designed digital logos for the **3 of the college’s committees**.
+- Volunteered for over **15 art, craft and photography events**.
+
+<br>
+<hr>
+  
+## Hobbies
+### Art
+#### Artmeya
+- Started a **Resin Art** small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.
+- Produced over **80 orders** of various products for more than **50 customers** ensuring product quality and their satisfaction.
+- Managed inventory of over **150 art supplies** and scheduling deliveries of the orders.
+- Created content on Instagram by making about **100 posts** and **45 reels** through clicking photographs, shooting videos and editing them.
+
+<br>
+  
+## Photography
+
+<br>
+
+## Fitness
