@@ -144,7 +144,7 @@
 <table>
 <tr>
 <th>
-  <iframe align="center" width="160" height="120" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </th>
 <th>
   <a href="https://github.com/ameyaparab1996/employee-attrition-rate-analysis">
