@@ -113,10 +113,11 @@
 ## Projects
 
 #### BookMyDoc (A Medical Appointment Booking Platform)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Developed a robust application using **R Shiny** to facilitate seamless **CRUD operations** leveraging **6 Joins**, **3 Views**, & over **14 complex SQL queries** on a **Healthcare database** ensuring adherence to third normal form. (Demonstration Video)
 - Devised an efficient **Data Pipeline** using **PySpark** capable of batch processing over **100,000 records** facilitating efficient operations on the data.
 - Designed an intuitive dashboard that showcased **7 comprehensive statistics and visualizations**, providing valuable insights to users.
-- Deployed the Shiny app on shinyapps.io while hosting the database on a **GCP MySQL instance**, resulting in a significant **70% reduction in query execution time**, thereby improving overall performance and responsiveness.
+- Deployed the Shiny app on [shinyapps.io](https://ameyaparab1996.shinyapps.io/bookmydoc/) while hosting the database on a **GCP MySQL instance**, resulting in a significant **70% reduction in query execution time**, thereby improving overall performance and responsiveness.
 
 <br>
 
@@ -146,7 +147,7 @@
   <h3>Art</h3>
   <p><i>Art and craft are the favourite hobbies for me; they are a boundless source of creativity and self-expression. I find immense joy in the process of bringing ideas to life through various artistic mediums. Whenever I get free time I indulge into the liberation of those moments by picking up a brush, a pencil, or grab some art supplied, and let my imagination run wild. Whether it's painting, sketching, digital art, or creating intricate crafts, I'm passionate about exploring the world of aesthetics.</i></p>
   <div style="clear: both"> 
-    <p style="display: inline-block; float: left">Artmeya</p>
+    <h4 style="display: inline-block; float: left">Artmeya</h4>
     <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
   </div>
   <div style="clear: both">
