@@ -100,3 +100,10 @@
 - Devised an efficient **Data Pipeline** using **PySpark** capable of batch processing over **100,000 records** facilitating efficient operations on the data.
 - Designed an intuitive dashboard that showcased **7 comprehensive statistics and visualizations**, providing valuable insights to users.
 - Deployed the Shiny app on shinyapps.io while hosting the database on a **GCP MySQL instance**, resulting in a significant **70% reduction in query execution time**, thereby improving overall performance and responsiveness.
+
+<br>
+
+#### Employee Attrition Rate Analysis and Prediction
+- Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements. (Documentation)
+- Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**. (Demonstration Video)
+- Implemented a classification model using **Machine Learning** to accurately predict whether an employee would stay or leave the organization. By leveraging relevant features and conducting thorough analysis, the model provided valuable insights for proactive employee retention strategies.
