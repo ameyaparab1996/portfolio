@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Education
 
 <div style="clear: both"> 
