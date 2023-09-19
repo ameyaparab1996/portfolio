@@ -134,7 +134,7 @@
 -	Recognized as a **MuleSoft Mentor** for zealously engaging & addressing over **40 technical queries** in the **MuleSoft Forum**.
 -	Actively interacted with **32 employers** and managed their hiring events as a **Placement Coordinator** leading to **98% of students getting offers**.
 -	Served as an **Executive Head** in Praxis (College Technical Festival) guiding the volunteers in decorating the campus as well as constructing **7 large scale art installations & models**. 
-- Designed digital logos for the **3 of the college’s committees**.
+- Designed digital logos for **3 of the college’s committees**.
 - Volunteered for over **15 art, craft and photography events**.
 
 <br>
