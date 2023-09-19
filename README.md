@@ -127,9 +127,9 @@
 #### Employee Attrition Rate Analysis and Prediction
 <table>
 <tr>
-<th><iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
+<th><iframe align="center" width="160" height="120" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
 <th>
-  <a href="[https://en.wikipedia.org/wiki/Boracay](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)">
+  <a href="https://github.com/ameyaparab1996/employee-attrition-rate-analysis">
     <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis"/>
   </a>
