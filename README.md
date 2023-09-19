@@ -125,7 +125,7 @@
 
 #### Employee Attrition Rate Analysis and Prediction
 <iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)
 - Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements.
 - Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**.
 - Implemented a classification model using **Machine Learning** to accurately predict whether an employee would stay or leave the organization. By leveraging relevant features and conducting thorough analysis, the model provided valuable insights for proactive employee retention strategies.
