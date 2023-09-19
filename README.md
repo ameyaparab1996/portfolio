@@ -7,7 +7,7 @@
   <p style="display: inline-block; float: left">Master of Science in Data Science</p>
   <h6 style="display: inline-block; float: right">CGPA: 3.95/4.0</h6>
 </div>
-<hr/>
+<hr />
 <details>
     <summary>Coursework</summary>
     <ul>
@@ -31,6 +31,7 @@
   <p style="display: inline-block; float: left">Bachelor of Engineering in Information Technology</p>
   <h6 style="display: inline-block; float: right"> CGPA: 8.58/10 </h6>
 </div>
+<hr />
 <details>
 <summary>Coursework</summary>
 - Object Oriented Programming
