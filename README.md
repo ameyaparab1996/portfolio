@@ -7,7 +7,6 @@
   <p style="display: inline-block; float: left">Master of Science in Data Science</p>
   <h6 style="display: inline-block; float: right">CGPA: 3.95/4.0</h6>
 </div>
-<br><br>
 <details>
     <summary>Coursework</summary>
     <ul>
@@ -31,7 +30,6 @@
   <p style="display: inline-block; float: left">Bachelor of Engineering in Information Technology</p>
   <h6 style="display: inline-block; float: right"> CGPA: 8.58/10 </h6>
 </div>
-<br><br>
 <details>
 <summary>Coursework</summary>
 - Object Oriented Programming
@@ -49,31 +47,27 @@
 </details>
 
 ## Work Experience
-<div> 
+<div style="clear: both"> 
   <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
   <h6 style="display: inline; float: right">July 2023 – Present</h6>
 </div>
-<br>
-<br>
 Research Scientist
 - xyz
 - dadfdfs
 
-<div> 
+<div style="clear: both"> 
   <h4 style="display: inline; float: left">Apisero, Mumbai, India</h4>
   <h6 style="display: inline; float: right">December 2021 – August 2022</h6>
 </div>
-<br>
-<p style="display: inline-block; float: left">Senior Software Engineer</p>
+Senior Software Engineer
 - sdfvs
 - sfsdf
 
-<div> 
+<div style="clear: both"> 
   <h4 style="display: inline; float: left">Accenture, Mumbai, India</h4>
   <h6 style="display: inline; float: right">October 2018 – December 2021</h6>
 </div>
-<br>
-<p style="display: inline-block; float: left">Application Development Associate</p>
+Application Development Associate
 - xyz
 - dsf
     
