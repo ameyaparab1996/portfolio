@@ -1,12 +1,13 @@
 ## Education
 <div> 
-  <h4 style="display: inline; float: left">Indiana University, Bloomington, IN, United States</h4>
-  <h6 style="display: inline; float: right">August 2022 – May 2024</h6>
+  <h4 style="display: inline-block; float: left">Indiana University, Bloomington, IN, United States</h4>
+  <h6 style="display: inline-block; float: right">August 2022 – May 2024</h6>
 </div>
 <div> 
   <p style="display: inline-block; float: left">Master of Science in Data Science</p>
   <h6 style="display: inline-block; float: right">CGPA: 3.95/4.0</h6>
 </div>
+<br>
 <details>
     <summary>Coursework</summary>
     <ul>
