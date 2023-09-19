@@ -80,10 +80,12 @@
   <h6 style="display: inline; float: right">June 2023 – Present</h6>
 </div>
 <br>
-<p style="clear: both">Teaching Assistant</p>
-- Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
-- Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
-- Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
+<p style="clear: both">Associate Instructor</p>
+- Worked collaboratively with fellow teaching assistants, and the Professors for course development, grading and query resolution of the students for the **Applied Database Technologies** and **Discrete Mathematics for Computer Science** courses.
+- Assisted in the development of course modules, learning materials, demonstrations and instructional aids to enhance the teaching process.
+- Effectively provided one-on-one and group mentoring to **100 graduate and undergraduate students** in , offering clarification on course material and assisting with homework assignments enabling them to achieve their **academic goals**.
+- Evaluated students' assignments and exams, providing constructive feedback, helping them achieve excellent grades.
+- Assisted in the development of **3 course modules**, learning materials,**7 demonstrations and instructional aids** to enhance the teaching process. ensuring clear understanding among the students.
 
 <br>
 
@@ -114,8 +116,12 @@
 ## Projects
 
 #### BookMyDoc (A Medical Appointment Booking Platform)
-<iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+<table style="border: none">
+  <tr>
+    <th><iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
+    <th>[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/</th>
+  </tr>
+</table>
 - Developed a robust application using **R Shiny** to facilitate seamless **CRUD operations** leveraging **6 Joins**, **3 Views**, & over **14 complex SQL queries** on a **Healthcare database** ensuring adherence to third normal form. (Demonstration Video)
 - Devised an efficient **Data Pipeline** using **PySpark** capable of batch processing over **100,000 records** facilitating efficient operations on the data.
 - Designed an intuitive dashboard that showcased **7 comprehensive statistics and visualizations**, providing valuable insights to users.
