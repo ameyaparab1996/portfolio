@@ -64,7 +64,7 @@
 ![image](assests/img/languages/numpy.svg)
 ![image](assests/img/languages/pandas.svg)
 ![image](assests/img/languages/scipy.svg)
-![image](img/languages/scikitlearn.svg)
+![image](assests/img/languages/scikitlearn.svg)
 ![image](assests/img/languages/keras.svg)
 ![image](assests/img/languages/apachespark.svg)
 ![image](assests/img/languages/apachemaven.svg)
