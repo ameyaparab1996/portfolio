@@ -114,7 +114,7 @@
 ## Projects
 
 #### BookMyDoc (A Medical Appointment Booking Platform)
-<iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="display: inline; float: left" align="center" width="320" height="240" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 - Developed a robust application using **R Shiny** to facilitate seamless **CRUD operations** leveraging **6 Joins**, **3 Views**, & over **14 complex SQL queries** on a **Healthcare database** ensuring adherence to third normal form. (Demonstration Video)
 - Devised an efficient **Data Pipeline** using **PySpark** capable of batch processing over **100,000 records** facilitating efficient operations on the data.
@@ -124,8 +124,8 @@
 <br>
 
 #### Employee Attrition Rate Analysis and Prediction
-<div align="center"><iframe width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+<div align="center"><iframe style="display: inline; float: left" width="320" height="240" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)</div
 - Leveraged a comprehensive blend of descriptive, predictive, and prescriptive data analytics techniques to gain in-depth insights into the **15 diverse factors** contributing to employee attrition within an organization empowering better judgements.
 - Employed **Gestalt Principles of Design** to combine **2 static**, **3 interactive**, and **2 animated visualizations**, allowing immersive exploration of temporal patterns and trends for informed **data-driven decisions**.
 - Implemented a classification model using **Machine Learning** to accurately predict whether an employee would stay or leave the organization. By leveraging relevant features and conducting thorough analysis, the model provided valuable insights for proactive employee retention strategies.
