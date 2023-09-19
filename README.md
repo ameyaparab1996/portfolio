@@ -142,7 +142,9 @@
 
 <details>
   <summary><h2 style="display: inline">Hobbies</h2></summary>
+  <br>
   <h3>Art</h3>
+  <p><i>Art and craft are the favourite hobbies for me; they are a boundless source of creativity and self-expression. I find immense joy in the process of bringing ideas to life through various artistic mediums. Whenever I get free time I indulge into the liberation of those moments by picking up a brush, a pencil, or grab some art supplied, and let my imagination run wild. Whether it's painting, sketching, digital art, or creating intricate crafts, I'm passionate about exploring the world of aesthetics.</i></p>
   <div style="clear: both"> 
     <p style="display: inline-block; float: left">Artmeya</p>
     <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
@@ -152,15 +154,24 @@
       <li>Started a <b>Resin Art</b> small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
       <li>Produced over <b>80 orders</b> of various products for more than <b>50 customers</b> ensuring product quality and their satisfaction.</li>
       <li>Managed inventory of over <b>150 art supplies</b> and scheduling deliveries of the orders.</li>
-      <li>Created content on Instagram by making about <b>100 posts** and <b>45 reels</b> through clicking photographs, shooting videos and editing them.</li>
+      <li>Created content on Instagram by making about <b>100 posts</b> and <b>45 reels</b> through clicking photographs, shooting videos and editing them.</li>
     </ul>
   </div>
 
   <br>
   
   <h3>Photography</h3>
+  <p><i>Photography has been a cherished hobby of mine for several years, and it's where I truly find my creative visual expression. One aspect I'm particularly passionate about is architectural photography. I find immense beauty in the lines, symmetry, and intricate details of buildings and structures. Photo and Video editing are equally essential skills; they serve as canvas for enhancing the captured visual. I take great interest in turning raw visuals into captivating stories by fine-tuning every detail, from color correction to enhancing contrast and clarity.</i></p>
 
   <br>
 
   <h3>Fitness</h3>
+  <p><i>Fitness isn't just a hobby for me; it's a way of life that I wholeheartedly embrace. My routine consists of going to the gym six days a week, where I challenge myself to push beyond limits and grow stronger and look good with each workout. Cycling is another integral part of my daily life. Whether it's a usual commute to the University Campus or a challenging trek up and down hills on the streets of Bloomington, I relish every moment on my bike.</i></p>
+  <p><i>Moreover, fitness isn't just about exercise; it's also about nourishing body with wholesome, nutritious food. I prioritize a balanced and healthy diet, ensuring that I fuel my body with the right nutrients. This combination of consistent gym visits, daily cycling, and mindful eating isn't just a routine; it's a lifestyle that keeps me energized, focused, and ready to tackle life's challenges.</i></p>
+
+  <br>
+
+  <h3>Cooking</h3>
+  <p><i>What sets my culinary journey apart is my commitment to healthy living. My cooking passion is deeply rooted in Indian cuisines, where the diversity of dishes, spices, and techniques never ceases to amaze me. Amidst the indulgence of Indian cuisine, I have a special affinity for creating protein-rich salads that not only satisfy the taste buds but also nourish the body. It's not just about the end result; it's about the process, the experimentation, and the joy of sharing meals that evoke warmth and connection.</i></p>
+  
 </details>
