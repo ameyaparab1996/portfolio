@@ -116,7 +116,22 @@
 ## Projects
 
 #### BookMyDoc (A Medical Appointment Booking Platform)
-| <iframe align="center" width="320" height="240" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=bookmydoc)](https://github.com/ameyaparab1996/bookmydoc) |
+
+<table>
+<tr>
+<th>
+  <iframe align="center" width="240" height="180" src="https://www.youtube.com/embed/30WF6MoWPl0?si=6VqYe88JVpPkIeul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</th>
+<th>
+  <a href="https://github.com/ameyaparab1996/bookmydoc">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=bookmydoc"/>
+  </a>
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)-->
+</th>
+</tr>
+</table>
+
 - Developed a robust application using **R Shiny** to facilitate seamless **CRUD operations** leveraging **6 Joins**, **3 Views**, & over **14 complex SQL queries** on a **Healthcare database** ensuring adherence to third normal form. (Demonstration Video)
 - Devised an efficient **Data Pipeline** using **PySpark** capable of batch processing over **100,000 records** facilitating efficient operations on the data.
 - Designed an intuitive dashboard that showcased **7 comprehensive statistics and visualizations**, providing valuable insights to users.
@@ -125,9 +140,12 @@
 <br>
 
 #### Employee Attrition Rate Analysis and Prediction
+
 <table>
 <tr>
-<th><iframe align="center" width="160" height="120" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
+<th>
+  <iframe align="center" width="160" height="120" src="https://www.youtube.com/embed/WR9UEp6JCPY?si=2h8rJYvUKgWAWUV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</th>
 <th>
   <a href="https://github.com/ameyaparab1996/employee-attrition-rate-analysis">
     <img
