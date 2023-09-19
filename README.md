@@ -1,4 +1,5 @@
 ## Education
+
 <div style="clear: both"> 
   <h4 style="display: inline-block; float: left">Indiana University, Bloomington, IN, United States</h4>
   <h6 style="display: inline-block; float: right">August 2022 – May 2024</h6>
@@ -55,30 +56,27 @@
 <hr>
 
 ## Work Experience
+
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
   <h6 style="display: inline; float: right">July 2023 – Present</h6>
 </div>
 <br>
-<div style="clear: both">
-Research Scientist
+<p style="clear: both">Research Scientist</p>
 - Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
 - Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
 - Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
-</div>
 
-</br>
+<br>
 
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Apisero, Mumbai, India</h4>
   <h6 style="display: inline; float: right">December 2021 – August 2022</h6>
 </div>
-<div style="clear: both">
-Senior Software Engineer
+<p style="clear: both">Senior Software Engineer</p>
 - Developed comprehensive **API documentations, architecture & sequence diagrams** for **3 features**, facilitating seamless implementation by the developers and testers as well as enabling **effective communication** between the relevant stakeholders.
 - Spearheaded collaboration & coordination with **3 US based clients** and **cross-functional teams** as a **Technical Consultant**, ensuring effective and clear understanding to deliver the product as per the business requirements resulting in **increased client satisfaction and retention**.
 - Demonstrated expertise in creating highly efficient integration interfaces for **REST APIs**, **ETL** and **Data Pipelines** across diverse systems, leveraging IBM MQ, Kafka, AWS SQS, Database, MongoDB, Snowflake, Tableau and Salesforce connectors ensuring unified view of data.
-</div>
 
 <br>
 
@@ -86,15 +84,19 @@ Senior Software Engineer
   <h4 style="display: inline; float: left">Accenture, Mumbai, India</h4>
   <h6 style="display: inline; float: right">October 2018 – December 2021</h6>
 </div>
-<div style="clear: both">
-Application Development Associate
+<p style="clear: both">Application Development Associate</p>
 - Played a key role as an **Integration and API Developer** in a large-scale **SAFe Agile Project**, collaborating with **14 Scrum teams** and **120 members** achieving **100% completion of the project goals**.
 - Demonstrated exceptional problem-solving & analytical skills by **resolving approximately 200 SIT defects**, ensuring **timely delivery** of the release.
 -	Earned noteworthy recognitions of **Growing Star & Day One Star**, for showcasing dedication to professional growth & outstanding contributions.
 -	Mentored **15 new hires** by facilitating their project onboarding process, contributing to their **professional development** and **project success**.
-</div>
 
 <br>
 <hr>
   
 ## Projects
+
+#### BookMyDoc (A Medical Appointment Booking Platform)
+- Developed a robust application using **R Shiny** to facilitate seamless **CRUD operations** leveraging **6 Joins**, **3 Views**, & over **14 complex SQL queries** on a **Healthcare database** ensuring adherence to third normal form. (Demonstration Video)
+- Devised an efficient **Data Pipeline** using **PySpark** capable of batch processing over **100,000 records** facilitating efficient operations on the data.
+- Designed an intuitive dashboard that showcased **7 comprehensive statistics and visualizations**, providing valuable insights to users.
+- Deployed the Shiny app on shinyapps.io while hosting the database on a **GCP MySQL instance**, resulting in a significant **70% reduction in query execution time**, thereby improving overall performance and responsiveness.
