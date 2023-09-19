@@ -56,35 +56,23 @@
 <hr>
   
 ## Technical Skills
-| ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) |
+
+| | | ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) | | |
 
 | ![image](assests/img/languages/numpy.svg) | ![image](assests/img/languages/pandas.svg) | ![image](assests/img/languages/scipy.svg) | ![image](assests/img/languages/scikitlearn.svg) | ![image](assests/img/languages/keras.svg) | ![image](assests/img/languages/apachespark.svg) | ![image](assests/img/languages/apachemaven.svg) | ![image](assests/img/languages/apachekafka.svg) |
 
-| ![image](assests/img/technologies/mulesoft.svg) | ![image](assests/img/technologies/salesforce.svg) | ![image](assests/img/technologies/amazonaws.svg) | ![image](assests/img/technologies/jupyter.svg) | ![image](assests/img/technologies/tableau.svg) | ![image](assests/img/technologies/looker.svg) |
+| | ![image](assests/img/technologies/mulesoft.svg) | ![image](assests/img/technologies/salesforce.svg) | ![image](assests/img/technologies/amazonaws.svg) | ![image](assests/img/technologies/jupyter.svg) | ![image](assests/img/technologies/tableau.svg) | ![image](assests/img/technologies/looker.svg) | |
 
 ![image](assests/img/technologies/microsoftoffice.svg)
 
-![image](assests/img/database/mysql.svg)
-![image](assests/img/database/postgresql.svg)
-![image](assests/img/database/sqlite.svg)
-![image](assests/img/database/oracle.svg)
-![image](assests/img/database/snowflake.svg)
-![image](assests/img/database/googlebigquery.svg)
-![image](assests/img/database/mongodb.svg)
-![image](assests/img/database/neo4j.svg)
+| ![image](assests/img/database/mysql.svg) | ![image](assests/img/database/postgresql.svg) | ![image](assests/img/database/sqlite.svg) | ![image](assests/img/database/oracle.svg) | ![image](assests/img/database/snowflake.svg) | ![image](assests/img/database/googlebigquery.svg) | ![image](assests/img/database/mongodb.svg) | ![image](assests/img/database/neo4j.svg) |
 
-![image](assests/img/cicd/git.svg)
-![image](assests/img/cicd/bitbucket.svg)
-![image](assests/img/cicd/docker.svg)
-![image](assests/img/cicd/kubernetes.svg)
-![image](assests/img/cicd/jenkins.svg)
-![image](assests/img/cicd/jirasoftware.svg)
+| ![image](assests/img/cicd/git.svg) | ![image](assests/img/cicd/bitbucket.svg) | ![image](assests/img/cicd/docker.svg) | ![image](assests/img/cicd/kubernetes.svg) | ![image](assests/img/cicd/jenkins.svg) | ![image](assests/img/cicd/jirasoftware.svg) | 
+
 ![image](assests/img/cicd/confluence.svg)
 
-![image](assests/img/design/adobeillustrator.svg)
-![image](assests/img/design/adobephotoshop.svg)
-![image](assests/img/design/adobepremierepro.svg)
-![image](assests/img/design/adobefigma.svg)
+| | | ![image](assests/img/design/adobeillustrator.svg) | ![image](assests/img/design/adobephotoshop.svg) | ![image](assests/img/design/adobepremierepro.svg) | ![image](assests/img/design/adobefigma.svg) | | |
+
 ![image](assests/img/design/diagramsdotnet.svg)
 
 <br>
