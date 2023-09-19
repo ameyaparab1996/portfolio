@@ -22,6 +22,7 @@
     </ul>
   </details>
 
+<br>
 <div> 
   <h4 style="display: inline; float: left">University of Mumbai, Mumbai, India</h4>
   <h6 style="display: inline; float: right">July 2014 – May 2018</h6>
@@ -52,30 +53,27 @@
   <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
   <h6 style="display: inline; float: right">July 2023 – Present</h6>
 </div>
-<div>
+<br>
 Research Scientist
 - xyz
 - dadfdfs
-</div>
 
 <div> 
   <h4 style="display: inline; float: left">Apisero, Mumbai, India</h4>
   <h6 style="display: inline; float: right">December 2021 – August 2022</h6>
 </div>
-<div>
+<br>
 Senior Software Engineer
 - sdfvs
 - sfsdf
-</div>
 
 <div> 
   <h4 style="display: inline; float: left"Accenture, Mumbai, India</h4>
   <h6 style="display: inline; float: right">October 2018 – December 2021</h6>
 </div>
-<div>
+<br>
 Application Development Associate
 - xyz
 - dsf
-</div>
     
 ## Projects
