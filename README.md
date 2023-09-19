@@ -1,18 +1,18 @@
 ## Education
-#### Indiana University, Bloomington, IN, United States 
-<p align="right">#### August 2022 – May 2024</p>
-###### Master of Science in Data Science
-<p align="right">CGPA: 3.95/4.0</p>
+<h4> Indiana University, Bloomington, IN, United States <p align="right">August 2022 – May 2024</p> </h4>
+Master of Science in Data Science <p align="right">CGPA: 3.95/4.0</p>
 <details>
-<summary>Coursework</summary>
-* Applied Machine Learning
-* Applied Database Technologies
-* Statistics
-* Data Visualization
-* Big Data Technologies
-* Natural Language Processing
-* Music Data Mining
-* Social Media Informatics
+  <summary>Coursework</summary>
+  <ul>
+    <li>Applied Machine Learning</li>
+    <li>Applied Database Technologies</li>
+    <li>Statistics</li>
+    <li>Data Visualization</li>
+    <li>Big Data Technologies</li>
+    <li>Natural Language Processing</li>
+    <li>Music Data Mining</li>
+    <li>Social Media Informatics</li>
+  </ul>
 </details>
 
 #### University of Mumbai, Mumbai, India					           	                 	                                                                                                    July 2014 – May 2018
