@@ -149,10 +149,10 @@
   </div>
   <div style="clear: both">
     <ul>
-      <li>Started a **Resin Art** small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
-      <li>Produced over **80 orders** of various products for more than **50 customers** ensuring product quality and their satisfaction.</li>
-      <li>Managed inventory of over **150 art supplies** and scheduling deliveries of the orders.</li>
-      <li>Created content on Instagram by making about **100 posts** and **45 reels** through clicking photographs, shooting videos and editing them.</li>
+      <li>Started a <b>Resin Art</b> small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
+      <li>Produced over <b>80 orders</b> of various products for more than <b>50 customers</b> ensuring product quality and their satisfaction.</li>
+      <li>Managed inventory of over <b>150 art supplies</b> and scheduling deliveries of the orders.</li>
+      <li>Created content on Instagram by making about <b>100 posts** and <b>45 reels</b> through clicking photographs, shooting videos and editing them.</li>
     </ul>
   </div>
 
