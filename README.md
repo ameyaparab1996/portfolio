@@ -56,7 +56,7 @@
 <hr>
   
 ## Technical Skills
-![image](https://github.com/ameyaparab1996/portfolio/blob/main/assests/img/languages/python.svg)
+![image](assests/img/languages/python.svg)
 ![image](https://github.com/ameyaparab1996/portfolio/blob/main/assests/img/languages/r.svg)
 ![image](https://github.com/ameyaparab1996/portfolio/blob/main/assests/img/languages/html5.svg)
 ![image](https://github.com/ameyaparab1996/portfolio/blob/main/assests/img/languages/css3.svg)
