@@ -8,7 +8,7 @@
   <h6 style="display: inline-block; float: right">CGPA: 3.95/4.0</h6>
 </div>
 <div style="clear: both">
-<details>
+  <details>
     <summary>Coursework</summary>
     <ul>
       <li>Applied Machine Learning</li>
@@ -21,7 +21,7 @@
       <li>Social Media Informatics</li>
     </ul>
   </details>
-
+</div>
 <br>
 <div style="clear: both"> 
   <h4 style="display: inline-block; float: left">University of Mumbai, Mumbai, India</h4>
