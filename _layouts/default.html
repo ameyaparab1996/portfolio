@@ -4,7 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <style>
+      a:link(.btn), a:visited(.btn) {
+        background-color: #999999;
+        color: black;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover(.btn), a:active(.btn) {
+        color: white;
+        background-color: #0d0d0d;
+      }
+    </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -30,16 +44,16 @@
         <p><a href="https://medium.com/@ameyaparab1996">Medium</a></p>
         <p><a href="https://www.salesforce.com/trailblazer/ameyaparab1996">Salesforce Trailblazer</a></p>
 
-        {% if site.github.is_project_page %}
+        <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+        {% endif %}-->
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
-        <li><a href="assets/docs/ameya_parab_resume.pdf">Download <strong>Resume</strong></a></li>
+        <a class="btn" href="assets/docs/ameya_parab_resume.pdf"><strong>Download Resume</strong></a>
         {% endif %}
       </header>
       <section>
