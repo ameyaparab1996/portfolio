@@ -212,7 +212,7 @@ layout: default
     <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
   </div>
   <div style="clear: both">
-  <img src="assets/img/hobbies/artmeya.png" />
+  <div align="center"><img src="assets/img/hobbies/artmeya.png" /></div>
     <ul>
       <li>Started a <b>Resin Art</b> small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
       <li>Produced over <b>80 orders</b> of various products for more than <b>50 customers</b> ensuring product quality and their satisfaction.</li>
