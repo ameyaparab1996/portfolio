@@ -61,17 +61,17 @@ layout: default
   
 ## Technical Skills
 
-| | | ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) | ![image](assests/img/languages/php.svg) |![image](assests/img/languages/java.jpg)|
+| | | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) |![image](assets/img/languages/java.jpg)|
 
-| | ![image](assests/img/languages/numpy.svg) | ![image](assests/img/languages/pandas.svg) | ![image](assests/img/languages/scipy.svg) | ![image](assests/img/languages/scikitlearn.svg) | ![image](assests/img/languages/keras.svg) | ![image](assests/img/languages/apachespark.svg) | ![image](assests/img/languages/apachemaven.svg) | ![image](assests/img/languages/apachekafka.svg) | |
+| | ![image](assets/img/languages/numpy.svg) | ![image](assets/img/languages/pandas.svg) | ![image](assets/img/languages/scipy.svg) | ![image](assets/img/languages/scikitlearn.svg) | ![image](assets/img/languages/keras.svg) | ![image](assets/img/languages/apachespark.svg) | ![image](assets/img/languages/apachemaven.svg) | ![image](assets/img/languages/apachekafka.svg) | |
 
-| | | ![image](assests/img/technologies/mulesoft.svg) | ![image](assests/img/technologies/salesforce.svg) | ![image](assests/img/technologies/amazonaws.svg) | ![image](assests/img/technologies/jupyter.svg) | ![image](assests/img/technologies/tableau.svg) | ![image](assests/img/technologies/looker.svg) | | |
+| | | ![image](assets/img/technologies/mulesoft.svg) | ![image](assets/img/technologies/salesforce.svg) | ![image](assets/img/technologies/amazonaws.svg) | ![image](assets/img/technologies/jupyter.svg) | ![image](assets/img/technologies/tableau.svg) | ![image](assets/img/technologies/looker.svg) | | |
 
-| | ![image](assests/img/database/mysql.svg) | ![image](assests/img/database/postgresql.svg) | ![image](assests/img/database/sqlite.svg) | ![image](assests/img/database/oracle.svg) | ![image](assests/img/database/snowflake.svg) | ![image](assests/img/database/googlebigquery.svg) | ![image](assests/img/database/mongodb.svg) | ![image](assests/img/database/neo4j.svg) | |
+| | ![image](assets/img/database/mysql.svg) | ![image](assets/img/database/postgresql.svg) | ![image](assets/img/database/sqlite.svg) | ![image](assets/img/database/oracle.svg) | ![image](assets/img/database/snowflake.svg) | ![image](assets/img/database/googlebigquery.svg) | ![image](assets/img/database/mongodb.svg) | ![image](assets/img/database/neo4j.svg) | |
 
-| | | ![image](assests/img/cicd/git.svg) | ![image](assests/img/cicd/bitbucket.svg) | ![image](assests/img/cicd/docker.svg) | ![image](assests/img/cicd/jenkins.svg) | ![image](assests/img/cicd/jirasoftware.svg) | ![image](assests/img/cicd/confluence.svg) | | |
+| | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | | |
 
-| | | | ![image](assests/img/design/adobeillustrator.svg) | ![image](assests/img/design/adobephotoshop.svg) | ![image](assests/img/design/figma.svg) | ![image](assests/img/design/diagramsdotnet.svg) | | | |
+| | | | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | | |
 
 ## Work Experience
 
