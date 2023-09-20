@@ -61,7 +61,7 @@ layout: default
   
 ## Technical Skills
 
-| | ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/java.png) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) | ![image](assests/img/languages/php.svg) | |
+| | ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/java.jpg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) | ![image](assests/img/languages/php.svg) | |
 
 | ![image](assests/img/languages/numpy.svg) | ![image](assests/img/languages/pandas.svg) | ![image](assests/img/languages/scipy.svg) | ![image](assests/img/languages/scikitlearn.svg) | ![image](assests/img/languages/keras.svg) | ![image](assests/img/languages/apachespark.svg) | ![image](assests/img/languages/apachemaven.svg) | ![image](assests/img/languages/apachekafka.svg) |
 
