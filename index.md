@@ -185,8 +185,8 @@ layout: default
   
 ## Leadership & Involvement
 
-- Authored a **Medium Article** that garnered **28 views**, offering critique on a unique visualization, its insights and skillful use of visual encodings.
--	Recognized as a **MuleSoft Mentor** for zealously engaging & addressing over **40 technical queries** in the **MuleSoft Forum**.
+- Authored a [**Medium Article**](https://medium.com/@ameyaparab1996/exploring-the-flyby-clock-a-visual-journey-through-asteroid-encounters-bf9c3ae75f85) that garnered **28 views**, offering critique on a unique visualization, its insights and skillful use of visual encodings.
+-	Recognized as a **MuleSoft Mentor** for zealously engaging & addressing over **40 technical queries** in the [**MuleSoft Forum**](https://help.mulesoft.com/s/profile/0052T00000DpmsRQAR).
 -	Actively interacted with **32 employers** and managed their hiring events as a **Placement Coordinator** leading to **98% of students getting offers**.
 -	Served as an **Executive Head** in Praxis (College Technical Festival) guiding the volunteers in decorating the campus as well as constructing **7 large scale art installations & models**. 
 - Designed digital logos for **3 of the college’s committees**.
@@ -200,11 +200,19 @@ layout: default
   <br>
   <h3>Art</h3>
   <p><i>Art and craft are the favourite hobbies for me; they are a boundless source of creativity and self-expression. I find immense joy in the process of bringing ideas to life through various artistic mediums. Whenever I get free time I indulge into the liberation of those moments by picking up a brush, a pencil, or grab some art supplied, and let my imagination run wild. Whether it's painting, sketching, digital art, or creating intricate crafts, I'm passionate about exploring the world of aesthetics.</i></p>
+  <table>
+    <tr>
+      <td><img src="assets/img/hobbies/art2jpg" /></td>
+      <td><img src="assets/img/hobbies/art3jpg" /></td>
+      <td><img src="assets/img/hobbies/art4.jpg" /></td>
+    </tr>
+  </table>
   <div style="clear: both"> 
     <h4 style="display: inline-block; float: left">Artmeya</h4>
     <h6 style="display: inline-block; float: right">April 2021 - August 2022</h6>
   </div>
   <div style="clear: both">
+  <img src="assets/img/hobbies/artmeya.png" />
     <ul>
       <li>Started a <b>Resin Art</b> small business which focused on creation of Resin Paintings, Artifacts, Jewelry, Keychains and Clocks.</li>
       <li>Produced over <b>80 orders</b> of various products for more than <b>50 customers</b> ensuring product quality and their satisfaction.</li>
