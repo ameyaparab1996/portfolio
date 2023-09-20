@@ -61,7 +61,7 @@ layout: default
   
 ## Technical Skills
 
-| | | ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) | ![image](assests/img/languages/php.svg) |![image](assests/img/languages/java.jpg)| |
+| | | ![image](assests/img/languages/python.svg) | ![image](assests/img/languages/r.svg) | ![image](assests/img/languages/html5.svg) | ![image](assests/img/languages/css3.svg) | ![image](assests/img/languages/php.svg) |![image](assests/img/languages/java.jpg)|
 
 | | ![image](assests/img/languages/numpy.svg) | ![image](assests/img/languages/pandas.svg) | ![image](assests/img/languages/scipy.svg) | ![image](assests/img/languages/scikitlearn.svg) | ![image](assests/img/languages/keras.svg) | ![image](assests/img/languages/apachespark.svg) | ![image](assests/img/languages/apachemaven.svg) | ![image](assests/img/languages/apachekafka.svg) | |
 
@@ -72,9 +72,6 @@ layout: default
 | | | ![image](assests/img/cicd/git.svg) | ![image](assests/img/cicd/bitbucket.svg) | ![image](assests/img/cicd/docker.svg) | ![image](assests/img/cicd/jenkins.svg) | ![image](assests/img/cicd/jirasoftware.svg) | ![image](assests/img/cicd/confluence.svg) | | |
 
 | | | | ![image](assests/img/design/adobeillustrator.svg) | ![image](assests/img/design/adobephotoshop.svg) | ![image](assests/img/design/figma.svg) | ![image](assests/img/design/diagramsdotnet.svg) | | | |
-
-<br>
-<hr>
 
 ## Work Experience
 
