@@ -80,7 +80,7 @@ layout: default
   <h6 style="display: inline; float: right">July 2023 – Present</h6>
 </div>
 <br>
-<p style="clear: both">Research Scientist</p>
+<p style="clear: both">Research Assistant</p>
 - Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
 - Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
 - Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
