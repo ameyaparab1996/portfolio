@@ -81,9 +81,12 @@ layout: default
 </div>
 <br>
 <p style="clear: both">Research Assistant</p>
-- Engineered a robust database system in **Big Query** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
-- Designed a comprehensive **Data Model** for various data types and formats, including **Parque**, facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 20%**.
-- Incorporated **6 visual representations** to effectively present the extracted meaningful features and facilitate the **analysis of 65,000 ICU stays**.
+-	Engineered a robust database system in **Big Query** and **PostgreSQL** by performing preprocessing and transformation on extensive raw data of over **46,000 patients**, facilitating seamless querying to uncover patterns and trends enabling prediction of over **5 types of patient outcomes**.
+-	Designed a comprehensive **Data Model** for various data types and formats, including **CSV**, **Parquet** & **Avro**, and performed the responsibilities of a **DBA** for access and privilege management facilitating efficient collaboration among Developers, Researchers and Data Scientists to **increase productivity by 30%**.
+-	Designed an automated **Data Pipeline** to streamline time series data retrieval and integration process with **Big Query**, **Google Cloud Storage** & **PostgreSQL** involving up-sampling and interpolation techniques to smoothen the time interval and **reduce the missing values by 30%**.
+-	Spearheaded the development of a robust **Time Series** machine learning model using **RNN** for predicting critical clinical variables, enhancing the researcher's ability to anticipate **3 types of patient outcomes**.
+-	Collaborated with clinicians & researchers to review **9 scholarly articles** and gather domain knowledge for refinement of the model's performance.
+-	Incorporated **16 visual representations** to effectively present the extracted meaningful features and facilitate the analysis of **65,000 ICU stays**.
 
 <br>
 
@@ -93,11 +96,11 @@ layout: default
 </div>
 <br>
 <p style="clear: both">Associate Instructor</p>
-- Worked collaboratively with fellow teaching assistants, and the Professors for course development, grading and query resolution of the students for the **Applied Database Technologies** and **Discrete Mathematics for Computer Science** courses.
+- Worked collaboratively with fellow teaching assistants, and the Professors for course development, grading and query resolution of the students for the **Applied Database Technologies** and **Discrete Mathematics for Computer Science** courses for **3 semesters**.
 - Assisted in the development of course modules, learning materials, demonstrations and instructional aids to enhance the teaching process.
 - Effectively provided one-on-one and group mentoring to **100 graduate and undergraduate students** in , offering clarification on course material and assisting with homework assignments enabling them to achieve their **academic goals**.
 - Evaluated students' assignments and exams, providing constructive feedback, helping them achieve excellent grades.
-- Assisted in the development of **3 course modules**, learning materials,**7 demonstrations and instructional aids** to enhance the teaching process. ensuring clear understanding among the students.
+- Assisted in the development of **12 course modules**, learning materials,**7 demonstrations and instructional aids** to enhance the teaching process. ensuring clear understanding among the students.
 
 <br>
 
@@ -126,6 +129,29 @@ layout: default
 <hr>
   
 ## Projects
+
+#### Generative AI based Song Recommendation System
+
+<table>
+<tr>
+  <td>
+    <a href="https://github.com/ameyaparab1996/song-recommendation-system">
+      <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=song-recommendation-system"/>
+    </a>
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyaparab1996&repo=employee-attrition-rate-analysis)](https://github.com/ameyaparab1996/employee-attrition-rate-analysis)-->
+  </td>
+  <td>
+    <iframe width="320" height="180" src="https://www.youtube.com/embed/MDeuYBwSps0?si=0ozNqRTExLHuaPkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </td>
+</tr>
+</table>
+
+- Implemented a **Generative Artificial Intelligence** driven song recommendation system integrating **Spotify API** & **Streamlit**, using content-based & collaborative filtering hybrid model approach to leverage cutting-edge natural language processing technology and enhance user experience.
+-	Engineered data preprocessing pipelines for performing **NLP** tasks such as named entity recognition, removal of stem words, lemmatization, stemming and analyzing sentiments, relationship between lyrics using Doc2Vec, ensuring the quality of the data of over **1 million songs**.
+-	Developed and fine-tuned deep learning models, such as **Convolutional Neural Networks (CNNs)** to extract intricate patterns from the spectrogram of the songs, resulting in enhanced recommendations.
+
+<br>
 
 #### BookMyDoc (A Medical Appointment Booking Platform)
 
