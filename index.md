@@ -134,7 +134,7 @@ layout: default
   
 ## Projects
 
-#### Generative AI based Song Recommendation System ([SoundScout](https://song-recommendation-system.streamlit.app/))
+#### SoundScout ([Generative AI based Song Recommendation System](https://song-recommendation-system.streamlit.app/))
 
 <table>
 <tr>
