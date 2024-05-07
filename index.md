@@ -73,6 +73,13 @@ layout: default
 
 | | | | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | | |
 
+## Certifications & Batches
+-	Salesforce Certified MuleSoft Platform Architect Level 1
+-	Salesforce Certified MuleSoft Developer Level 1
+-	Snowflake Hands On Essentials
+  - Data Engineering	  
+-	Accenture Agile Professional Certification
+
 ## Work Experience
 
 <div style="clear: both"> 
@@ -92,7 +99,7 @@ layout: default
 
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Indiana University Luddy SoICE, Bloomington, IN</h4>
-  <h6 style="display: inline; float: right">June 2023 – Present</h6>
+  <h6 style="display: inline; float: right">June 2023 – May 2024</h6>
 </div>
 <br>
 <p style="clear: both">Associate Instructor</p>
