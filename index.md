@@ -76,8 +76,7 @@ layout: default
 ## Certifications & Batches
 -	Salesforce Certified MuleSoft Platform Architect Level 1
 -	Salesforce Certified MuleSoft Developer Level 1
--	Snowflake Hands On Essentials
-  - Data Engineering	  
+-	Snowflake Hands On Essentials	  
 -	Accenture Agile Professional Certification
 
 ## Work Experience
