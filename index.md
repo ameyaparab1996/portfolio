@@ -61,7 +61,7 @@ layout: default
   
 ## Technical Skills
 
-| | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/java.jpg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | |
+| | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | ![image](assets/img/languages/java.jpg) | |
 
 | | ![image](assets/img/languages/numpy.svg) | ![image](assets/img/languages/pandas.svg) | ![image](assets/img/languages/scipy.svg) | ![image](assets/img/languages/scikitlearn.svg) | ![image](assets/img/languages/keras.svg) | ![image](assets/img/languages/apachespark.svg) | ![image](assets/img/languages/apachemaven.svg) | ![image](assets/img/languages/apachekafka.svg) | |
 
@@ -69,7 +69,7 @@ layout: default
 
 | | ![image](assets/img/database/mysql.svg) | ![image](assets/img/database/postgresql.svg) | ![image](assets/img/database/sqlite.svg) | ![image](assets/img/database/oracle.svg) | ![image](assets/img/database/snowflake.svg) | ![image](assets/img/database/googlebigquery.svg) | ![image](assets/img/database/mongodb.svg) | ![image](assets/img/database/neo4j.svg) | |
 
-| | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/gitlab.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | | |
+| | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/gitlab.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | |
 
 | | | | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | | |
 
