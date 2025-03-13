@@ -61,7 +61,7 @@ layout: default
   
 ## Technical Skills
 
-| | | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | ![image](assets/img/languages/java.jpg) | ![image](assets/img/languages/graphql.svg) | | |
+| | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | ![image](assets/img/languages/java.jpg) | ![image](assets/img/languages/graphql.svg) | | |
 
 | | ![image](assets/img/languages/numpy.svg) | ![image](assets/img/languages/pandas.svg) | ![image](assets/img/languages/scipy.svg) | ![image](assets/img/languages/scikitlearn.svg) | ![image](assets/img/languages/keras.svg) | ![image](assets/img/languages/apachespark.svg) | ![image](assets/img/languages/apachemaven.svg) | ![image](assets/img/languages/apachekafka.svg) | |
 
@@ -83,7 +83,7 @@ layout: default
 
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">The Pokemon Company International, Bellevue, WA</h4>
-  <h6 style="display: inline; float: right">July 2023 – Present</h6>
+  <h6 style="display: inline; float: right">June 2024 – Present</h6>
 </div>
 <br>
 <p style="clear: both">Software Developer</p>
@@ -100,7 +100,7 @@ layout: default
 
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
-  <h6 style="display: inline; float: right">July 2023 – Present</h6>
+  <h6 style="display: inline; float: right">July 2023 – May 2024</h6>
 </div>
 <br>
 <p style="clear: both">Research Assistant</p>
