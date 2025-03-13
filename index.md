@@ -61,7 +61,7 @@ layout: default
   
 ## Technical Skills
 
-| | | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) |![image](assets/img/languages/java.jpg)|
+| | | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | ![image](assets/img/languages/java.jpg) | ![image](assets/img/languages/graphql.svg) | | |
 
 | | ![image](assets/img/languages/numpy.svg) | ![image](assets/img/languages/pandas.svg) | ![image](assets/img/languages/scipy.svg) | ![image](assets/img/languages/scikitlearn.svg) | ![image](assets/img/languages/keras.svg) | ![image](assets/img/languages/apachespark.svg) | ![image](assets/img/languages/apachemaven.svg) | ![image](assets/img/languages/apachekafka.svg) | |
 
@@ -69,7 +69,7 @@ layout: default
 
 | | ![image](assets/img/database/mysql.svg) | ![image](assets/img/database/postgresql.svg) | ![image](assets/img/database/sqlite.svg) | ![image](assets/img/database/oracle.svg) | ![image](assets/img/database/snowflake.svg) | ![image](assets/img/database/googlebigquery.svg) | ![image](assets/img/database/mongodb.svg) | ![image](assets/img/database/neo4j.svg) | |
 
-| | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | | |
+| | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/gitlab.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | | |
 
 | | | | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | | |
 
@@ -80,6 +80,23 @@ layout: default
 -	Accenture Agile Professional Certification
 
 ## Work Experience
+
+<div style="clear: both"> 
+  <h4 style="display: inline; float: left">The Pokemon Company International, Bellevue, WA</h4>
+  <h6 style="display: inline; float: right">July 2023 – Present</h6>
+</div>
+<br>
+<p style="clear: both">Software Developer</p>
+-	Engineered optimized solutions for e-commerce applications, **reducing latency** and **production incidents by 5%**, resulting in a smoother, more reliable customer experience.
+-	Facilitated discussions with third-party vendors to gather requirements, strategically leveraging their **API** capabilities to minimize changes and enhance the **reuse of existing modules by 30%**.
+-	Designed and implemented a reconciliation strategy for order status by developing a robust **data pipeline**, ensuring seamless synchronization between logistics providers and the **order management system**.
+-	Orchestrated seamless integration of **MuleSoft** applications with **AWS** cloud components such as S3, SQS, SNS, DynamoDB, Athena, Glue and Secrets Manager, enhancing **scalability** and **system interoperability**.
+-	Implemented an automation solution using **Anypoint MQ Broker API** to streamline message management in MQ, significantly reducing manual effort for purging unwanted messages and ensuring timely critical alerts via email.
+-	Ensured **data quality** and consistency with third-party APIs through rigorous **integration tests** to guarantee accuracy and reliability for **business-driven reports** generation.
+- Delivered **live demonstrations** to key **client stakeholders**, emphasizing functionality, impact, and **business value** by showcasing metrics and results to drive alignment and adoption.
+- Directed **knowledge transfer** sessions and crafted **documentation** for **standard operating procedures**, enabling the production support team to **expedite incident response time by 40%** and improve issue resolution efficiency.
+
+<br>
 
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
