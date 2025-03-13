@@ -61,9 +61,9 @@ layout: default
   
 ## Technical Skills
 
-| | | | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | ![image](assets/img/languages/java.jpg) | |
+| | | ![image](assets/img/languages/python.svg) | ![image](assets/img/languages/r.svg) | ![image](assets/img/languages/html5.svg) | ![image](assets/img/languages/css3.svg) | ![image](assets/img/languages/php.svg) | ![image](assets/img/languages/java.jpg) | |
 
-| | ![image](assets/img/languages/numpy.svg) | ![image](assets/img/languages/pandas.svg) | ![image](assets/img/languages/scipy.svg) | ![image](assets/img/languages/scikitlearn.svg) | ![image](assets/img/languages/keras.svg) | ![image](assets/img/languages/apachespark.svg) | ![image](assets/img/languages/apachemaven.svg) | ![image](assets/img/languages/apachekafka.svg) | |
+| ![image](assets/img/languages/numpy.svg) | ![image](assets/img/languages/pandas.svg) | ![image](assets/img/languages/scipy.svg) | ![image](assets/img/languages/scikitlearn.svg) | ![image](assets/img/languages/keras.svg) | ![image](assets/img/languages/apachespark.svg) | ![image](assets/img/languages/apachemaven.svg) | ![image](assets/img/languages/apachekafka.svg) |
 
 | | | ![image](assets/img/technologies/mulesoft.svg) | ![image](assets/img/technologies/salesforce.svg) | ![image](assets/img/technologies/amazonaws.svg) | ![image](assets/img/technologies/jupyter.svg) | ![image](assets/img/technologies/tableau.svg) | ![image](assets/img/technologies/looker.svg) | | |
 
