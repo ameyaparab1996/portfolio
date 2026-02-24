@@ -71,7 +71,7 @@ layout: default
 
 | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/gitlab.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | |
 
-| | ![image](assets/img/technologies/aws.svg) | ![image](assets/img/technologies/googlecloud.svg) | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | |
+| | ![image](assets/img/technologies/aws.svg) | ![image](assets/img/technologies/googlecloud.svg) | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | |
 
 ## Certifications & Batches
 -	Salesforce Certified MuleSoft Integration Architect Level 1
