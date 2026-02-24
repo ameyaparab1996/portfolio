@@ -74,9 +74,11 @@ layout: default
 | | | | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | | |
 
 ## Certifications & Batches
+-	Salesforce Certified MuleSoft Integration Architect Level 1
 -	Salesforce Certified MuleSoft Platform Architect Level 1
 -	Salesforce Certified MuleSoft Developer Level 1
--	Snowflake Hands On Essentials	  
+-	Snowflake Hands On Essentials
+-	SAFe 6 Agilist
 -	Accenture Agile Professional Certification
 
 ## Work Experience
@@ -254,6 +256,8 @@ metrics and results to drive alignment and adoption.
   
 ## Leadership & Involvement
 
+- Co-authored a study in **npj Digital Medicine (Nature Portfolio)** by spearheading the data gathering, cleaning, and preparation of large-scale clinical datasets. Full article on [DynaCEL](https://www.nature.com/articles/s41746-025-01863-0).
+- Honored with the **Luddy Outstanding Teaching Award** for collaborating with faculty and fellow teaching assistants across 3 semesters to develop course content and instructional materials, conduct hands-on lab sessions, mentor over **230 students**, provide constructive feedback, significantly enhancing student understanding and academic performance.
 - Recognized as a **Top Voice for API Development** on LinkedIn, showcasing expertise and thought leadership in the domain.
 - Authored a Medium Article: [A Visual Journey Through Asteroid Encounters](https://medium.com/@ameyaparab1996/exploring-the-flyby-clock-a-visual-journey-through-asteroid-encounters-bf9c3ae75f85) that garnered **28 views**, offering critique on a unique visualization, its insights and skillful use of visual encodings.
 - Collaborated on a Medium Post: [Personalized Music Playlist Recommendation System](https://medium.com/@gajbhiyeshreya23/personalized-music-playlist-recommendation-system-776bfabd50c2) garnering positive reception with **83 reactions**, providing overview of system design of a music recommendation system.
