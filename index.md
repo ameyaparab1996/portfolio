@@ -67,11 +67,11 @@ layout: default
 
 | | ![image](assets/img/technologies/mulesoft.svg) | ![image](assets/img/technologies/salesforce.svg) | ![image](assets/img/technologies/amazonaws.svg) | ![image](assets/img/technologies/jupyter.svg) | ![image](assets/img/technologies/tableau.svg) | ![image](assets/img/technologies/looker.svg) | ![image](assets/img/technologies/karate.svg) | |
 
-| | ![image](assets/img/database/mysql.svg) | ![image](assets/img/database/postgresql.svg) | ![image](assets/img/database/sqlite.svg) | ![image](assets/img/database/oracle.svg) | ![image](assets/img/database/snowflake.svg) | ![image](assets/img/database/googlebigquery.svg) | ![image](assets/img/database/mongodb.svg) | ![image](assets/img/database/neo4j.svg) | |
+| | ![image](assets/img/database/mysql.svg) | ![image](assets/img/database/postgresql.svg) | ![image](assets/img/database/sqlite.svg) | ![image](assets/img/database/oracle.svg) | ![image](assets/img/database/snowflake.svg) | ![image](assets/img/database/googlebigquery.svg) | ![image](assets/img/database/mongodb.svg) | ![image](assets/img/database/neo4j.svg) | ![image](assets/img/database/airtable.svg) |
 
 | | ![image](assets/img/cicd/git.svg) | ![image](assets/img/cicd/bitbucket.svg) | ![image](assets/img/cicd/gitlab.svg) | ![image](assets/img/cicd/docker.svg) | ![image](assets/img/cicd/jenkins.svg) | ![image](assets/img/cicd/jirasoftware.svg) | ![image](assets/img/cicd/confluence.svg) | |
 
-| | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | |
+| | ![image](assets/img/technologies/aws.svg) | ![image](assets/img/technologies/googlecloud.svg) | ![image](assets/img/design/adobeillustrator.svg) | ![image](assets/img/design/adobephotoshop.svg) | ![image](assets/img/design/figma.svg) | ![image](assets/img/design/diagramsdotnet.svg) | | |
 
 ## Certifications & Batches
 -	Salesforce Certified MuleSoft Integration Architect Level 1
