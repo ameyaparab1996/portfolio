@@ -86,21 +86,22 @@ layout: default
   <h6 style="display: inline; float: right">June 2024 – Present</h6>
 </div>
 <br>
-<p style="clear: both">Software Developer</p>
--	Engineered optimized solutions for e-commerce applications, **reducing latency** and **production incidents by 5%**, resulting in a smoother, more reliable customer experience.
--	Facilitated discussions with third-party vendors to gather requirements, strategically leveraging their **API** capabilities to minimize changes and enhance the **reuse of existing modules by 30%**.
--	Designed and implemented a reconciliation strategy for order status by developing a robust **data pipeline**, ensuring seamless synchronization between logistics providers and the **order management system**.
--	Orchestrated seamless integration of **MuleSoft** applications with **AWS** cloud components such as S3, SQS, SNS, DynamoDB, Athena, Glue and Secrets Manager, enhancing **scalability** and **system interoperability**.
--	Implemented an automation solution using **Anypoint MQ Broker API** to streamline message management in MQ, significantly reducing manual effort for purging unwanted messages and ensuring timely critical alerts via email.
--	Ensured **data quality** and consistency with third-party APIs through rigorous **integration tests** to guarantee accuracy and reliability for **business-driven reports** generation.
-- Delivered **live demonstrations** to key **client stakeholders**, emphasizing functionality, impact, and **business value** by showcasing metrics and results to drive alignment and adoption.
-- Directed **knowledge transfer** sessions and crafted **documentation** for **standard operating procedures**, enabling the production support team to **expedite incident response time by 40%** and improve issue resolution efficiency.
+<p style="clear: both">MuleSoft Developer</p>
+-	Led the system architectural design and governance of **4 MuleSoft integration solutions** across e-commerce and vending machine ecosystems, defining API standards, reusable component frameworks, and best practices adopted across cross-functional teams.
+-	Facilitated discussions with third-party vendors to gather requirements, strategically leveraging their API capabilities to minimize changes and enhance the reuse of existing modules by **50%**.
+-	Orchestrated seamless integration of MuleSoft applications with AWS cloud components including S3, SQS, SNS, DynamoDB, and Athena, enabling fault-tolerant, event-driven architectures capable of handling peak loads of **150,000+ of daily transactions** and data transfer of **60,000+ products**.
+-	Spearheaded the end-to-end automation of return-to-sender order management using MuleSoft API-led architecture, Anypoint MQ and DLQ, eliminating manual intervention for logistics and customer service teams, ensuring timely refunds and improving overall customer experience.
+-	Established and enforced a robust integration testing strategy across **30+ test cases**, **achieving 80%+ code coverage** and guaranteeing data accuracy and software quality assurance across business processes and reporting workflows.
+-	Partnered with cross-functional business stakeholders across logistics, e-commerce, and customer service teams to define integration roadmaps, translating complex technical solutions into measurable business outcomes and driving organizational alignment.
+- Delivered live demonstrations to key client stakeholders, emphasizing functionality, impact, and business benefits by showcasing
+metrics and results to drive alignment and adoption.
+- Drove operational excellence by delivering knowledge transfer sessions and SOPs for the production support team, cutting incident response time to **under 20 minutes** and reducing escalations through improved team autonomy and readiness.
 
 <br>
 
 <div style="clear: both"> 
   <h4 style="display: inline; float: left">Indiana University School of Medicine, Indianapolis, IN</h4>
-  <h6 style="display: inline; float: right">July 2023 – May 2024</h6>
+  <h6 style="display: inline; float: right">June 2023 – May 2024</h6>
 </div>
 <br>
 <p style="clear: both">Research Assistant</p>
